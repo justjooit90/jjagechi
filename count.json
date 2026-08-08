@@ -1,7 +1,6 @@
 {
-  "count": 222,
-  "baseline_date": "2026-08-08",
-  "baseline_count": 222,
-  "new_since_baseline": 0,
-  "updated_at": "2026-08-08T10:56:53.962122"
+  "consult_count": 222,
+  "review_count": null,
+  "blog_column_count": 343,
+  "updated_at": "2026-08-08T11:19:55.770822"
 }
